@@ -1,0 +1,57 @@
+.page-header h1 {
+	margin: 0;
+	font-size: 16px;
+}
+
+.page-header {
+	margin: 0;
+	margin-bottom: 20px;
+	
+}
+/*进度条*/
+.progress {
+    margin-bottom: 13px;
+}
+.nav-tabs a{
+	color: #666;
+}
+/*留言*/
+.liuyan{
+	margin-top: 15px;
+}
+/*图标*/
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 10px;
+}
+/*头像*/
+.wh64{
+	width:64px;
+	height: 64px;
+	border-radius: 50%;
+}
+/*footer*/
+footer{
+	font-weight: 400;
+	text-align: center;
+	padding: 20px;
+}
+.user_search{
+	padding: 10px;
+	border: solid 1px #ddd;
+	border-top:none;
+}
+/*标签*/
+.alertlist{
+	padding-top: 12px;
+}
+.alertlist .alert{
+	margin: 0 15px 15px 0px;
+}
+.pad0{
+	padding: 0;
+}
+.addinput{
+	margin-top: 5px;
+}

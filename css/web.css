@@ -1,0 +1,168 @@
+.navbar-brand {
+    line-height: 35px;
+    color: #40d2b1;
+}
+
+ol, ul {
+    padding-top: 10px;
+    font-size: 16px;
+}
+.navbar-default {
+   background: #ffffff;
+   border-bottom: none;
+   border:none;
+	box-shadow: 0px 2px 8px 0px rgba(50,50,50,0.25);
+}
+.navbar-default .navbar-toggle:hover {
+    background-color: #40d2b1;
+}
+.navbar-default .navbar-brand{
+	font-size: 26px;
+	font-weight: bold;
+	color: #40D2B1;
+	height: 70px;
+	line-height: 35px;
+}
+#home{
+	background: url(../img/home-bg.jpg);
+	background-size: cover;
+	color: #ffffff;
+	text-align: center;
+}
+.lvjing{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.7);
+	padding:90px 0;
+}
+#home h1{
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+#home p{
+	font-weight: 400;
+	line-height: 35px;
+}
+/*bbs*/
+#bbs{
+	text-align: center;
+	padding: 80px;
+}
+#bbs .col-md-4{
+	padding: 15px;
+}
+#bbs .col-md-4:hover{
+	background: #f1f1f1;
+	box-shadow: 1px 1px 4px #ccc;
+}
+#bbs img{
+	margin: 0 auto;
+}
+#bbs h3{
+	font-weight: bold;
+}
+
+/*HTML5*/
+#html5{
+	background: #F8F8F8;	
+}
+#html5,#bootstrap{
+	padding: 80px 0;
+}
+#html5 h2,#bootstrap h2{
+	font-weight: bold;
+}
+.main-icon{
+	background: rgb(64,210,177);
+	color: #fff;
+	border-radius: 50%;
+	width:40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-right: 20px;
+}
+#html5 p,#bootstrap p{
+	line-height: 25px;
+}
+
+/*swift*/
+#swift{
+	text-align: center;
+	padding: 100px;
+	background: #F8F8F8;
+}
+#swift h2{
+	font-size: 28px;
+	font-weight: bold;
+	color: #40d2b1;
+	margin-bottom: 50px;
+}
+#swift .swift_bg{
+	background: #ffffff;
+}
+#swift .swift_bg a{
+	padding: 10px 40px;
+	border-color: #40d2b1;
+	margin: 20px 30px;
+}
+#swift .swift_bg a:hover{
+	background: #40d2b1;
+	color: #fff;
+}
+#swift img{
+	margin:0 auto;
+}
+/*#app*/
+#app{
+	padding: 80px 0;
+}
+#app h2{
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+#app p{
+	line-height: 25px;
+	margin-top:45px;
+}
+#app button{
+	margin-top:24px;
+}
+#contact{
+	background: url(../img/contact-bg.png);
+	background-size: cover;
+	color: #FFFFFF;
+}
+#contact h3{
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+#contact p{
+	margin-bottom: 20px;
+	line-height: 25px;
+}
+#contact .form-control{
+	border-radius: 0;
+	height: 50px;
+	margin-bottom: 20px;
+	border: none;
+}
+#contact textarea.form-control {
+	height: auto;
+}
+#contact input[type="submit"] {
+	background: #40D2B1;
+	text-align: center;
+	color: #FFFFFF;
+}
+#contact input[type="submit"]:hover{
+    background: rgb(44,142,120);
+}
+/*footer*/
+footer{
+	font-weight: 400;
+	text-align: center;
+	padding: 20px;
+}
